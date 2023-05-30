@@ -7,7 +7,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     var superKahramanIsimleri = [String]()
     var superKahramanGorselIsimleri = [String]()
     var secilenIsim = ""
-    var secilenGorsel = ""
+    var secilenGorsel = "" 
     
     override func viewDidLoad()
     {
